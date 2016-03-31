@@ -1,0 +1,5 @@
+1- A(an)  ــــــــــــــــــــــــــــ is a statement causes the function to execute.
+
+2- A(an) ـــــــــــــــــــــــــ is a C++ construct that allows multiple variables to be grouped together.
+
+3- Ans instance of a class is called a(an) ـــــــــــــــــــــــــــــ.
